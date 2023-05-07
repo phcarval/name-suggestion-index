@@ -417,17 +417,6 @@
       }
     },
     {
-      "displayName": "Auchan Drive",
-      "id": "auchandrive-715442",
-      "locationSet": {"include": ["fr", "lu"]},
-      "tags": {
-        "brand": "Auchan Drive",
-        "brand:wikidata": "Q2870659",
-        "name": "Auchan Drive",
-        "shop": "supermarket"
-      }
-    },
-    {
       "displayName": "Auchan Supermarché",
       "id": "auchansupermarche-94a8a9",
       "locationSet": {"include": ["fx"]},
@@ -2017,18 +2006,6 @@
         "brand": "E. Leclerc",
         "brand:wikidata": "Q1273376",
         "name": "E. Leclerc",
-        "shop": "supermarket"
-      }
-    },
-    {
-      "displayName": "E. Leclerc Drive",
-      "id": "eleclercdrive-c16b1c",
-      "locationSet": {"include": ["fr"]},
-      "matchNames": ["leclerc drive"],
-      "tags": {
-        "brand": "E. Leclerc Drive",
-        "brand:wikidata": "Q1273376",
-        "name": "E. Leclerc Drive",
         "shop": "supermarket"
       }
     },
